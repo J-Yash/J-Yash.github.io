@@ -2,6 +2,10 @@ I'm a graduate student working toward a Master's degree in Computer Science from
 
 Other things that interest me are books, writing, history, space, and plenty of other things. Someday, I wish to go to Mars...or the moon.
 
+> Check out what I'm doing right [now](https://j-yash.github.io/now).
+
+> My [Impossible List](https://j-yash.github.io/impossiblelist).
+
 > Visit my blog @ [Neuron](https://j-yash.github.io/neuron/).
 
 > Find me on [LinkedIn](https://www.linkedin.com/in/yashvardhan-jain) or e-mail me at [yashvrdnjain@gmail.com](mailto:yashvrdnjain@gmail.com).
