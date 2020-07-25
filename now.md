@@ -1,1 +1,1 @@
-This is my now page.
+Coming soon...based on [Now page by Derek Sivers](https://nownownow.com/about).
