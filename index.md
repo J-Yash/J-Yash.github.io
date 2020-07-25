@@ -8,6 +8,6 @@ Other things that interest me are books, writing, history, space, and plenty of 
 
 > Visit my blog @ [Neuron](https://j-yash.github.io/neuron/).
 
-> Find me @ [Github](https://www.github.com/J-yash) || [Medium](https://medium.com/@jyash) || [LinkedIn](https://www.linkedin.com/in/yashvardhan-jain) || or e-mail me at [yashvrdnjain@gmail.com](mailto:yashvrdnjain@gmail.com).
+> Find me @ [Github](https://www.github.com/J-yash) or [Medium](https://medium.com/@jyash) or [LinkedIn](https://www.linkedin.com/in/yashvardhan-jain) or e-mail me at [yashvrdnjain@gmail.com](mailto:yashvrdnjain@gmail.com).
 
 > The [Stoic Musings](https://j-yash.github.io/neuron/stoicism/non-technical/2020/06/30/Stoic-Musings-Archive.html) archive.
