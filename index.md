@@ -2,7 +2,7 @@ I'm a Research Software Engineer - Machine Learning at [Cyberinfrastructure for 
 
 Other things that interest me are books, writing, history, space, and plenty of other things. Someday, I wish to go to Mars...or the moon.
 
-> Visit my personal blog @ [yashvardhanjain.com](https://www.yashvardhanjain.com).
+> Visit my blog/newsletter @ [Subtle Digressions](https://www.subtledigressions.com).
 
 > Find me @ [Github](https://www.github.com/J-yash) or [Medium](https://yashvrdnjain.medium.com/) or [LinkedIn](https://www.linkedin.com/in/yashvardhan-jain) or e-mail me at [yashvrdnjain@gmail.com](mailto:yashvrdnjain@gmail.com).
 
