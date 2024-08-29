@@ -4,5 +4,5 @@ Other things that interest me are books, writing, history, space, and plenty of 
 
 > Visit my blog/newsletter @ [Subtle Digressions](https://www.subtledigressions.com).
 
-> Find me @ [Github](https://www.github.com/J-yash) or [Medium](https://yashvrdnjain.medium.com/) or [LinkedIn](https://www.linkedin.com/in/yashvardhan-jain).
+> Find me @ [Github](https://www.github.com/J-yash) || [Medium](https://yashvrdnjain.medium.com/) || [LinkedIn](https://www.linkedin.com/in/yashvardhan-jain).
 
