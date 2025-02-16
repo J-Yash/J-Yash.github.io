@@ -2,7 +2,7 @@ I'm a Research Software Engineer - Machine Learning at [Cyberinfrastructure for 
 
 > Visit my writing/literature focussed blog/newsletter @ [Subtle Digressions](https://www.subtledigressions.com).
 > 
-> Or, visit my ML/AI focussed blog @ [Code Digressions](code.subtledigressions.com).
+> Or, visit my ML/AI focussed blog @ [Code Digressions](https://code.subtledigressions.com).
 
 > Find me @ [Github](https://www.github.com/J-yash) or [Medium](https://yashvrdnjain.medium.com/) or [LinkedIn](https://www.linkedin.com/in/yashvardhan-jain).
 
