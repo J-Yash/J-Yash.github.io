@@ -4,5 +4,5 @@ I'm a Research Software Engineer - Machine Learning at [Cyberinfrastructure for 
 > 
 > Or, visit my ML/AI focussed blog @ [Code Digressions](https://code.subtledigressions.com).
 
-> Find me @ [Github](https://www.github.com/J-yash) or [Medium](https://yashvrdnjain.medium.com/) or [LinkedIn](https://www.linkedin.com/in/yashvardhan-jain).
+> Find me @ [Github](https://www.github.com/J-yash) or [Medium](https://yashvrdnjain.medium.com/) or [LinkedIn](https://www.linkedin.com/in/yashvardhan-jain) or [Google Scholar](https://scholar.google.com/citations?user=25Pd4RgAAAAJ&hl=en).
 
