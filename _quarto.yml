@@ -7,10 +7,8 @@ website:
     right:
       - blog.qmd
       - icon: substack
-      - text: Substack
+      - text: Subtle Digressions Newsletter
         href: https://www.subtledigressions.com
-      - icon: github
-        href: https://github.com/J-yash
       
 format:
   html:
