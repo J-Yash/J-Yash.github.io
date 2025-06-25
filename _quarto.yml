@@ -5,6 +5,7 @@ website:
   title: "Yashvardhan Jain"
   navbar:
     right:
+      - blog.qmd
       - about.qmd
       - icon: github
         href: https://github.com/J-yash
