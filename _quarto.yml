@@ -13,7 +13,8 @@ website:
 format:
   html:
     theme:
-      - darkly
+      - sketchy
+      - dark
       - brand
     css: styles.css
 
