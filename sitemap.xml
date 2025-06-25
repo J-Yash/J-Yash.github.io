@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yashvardhanjain.com/posts/welcome/index.html</loc>
-    <lastmod>2025-06-18T19:40:01.412Z</lastmod>
+    <loc>https://yashvardhanjain.com/blog.html</loc>
+    <lastmod>2025-06-25T16:41:29.359Z</lastmod>
   </url>
   <url>
-    <loc>https://yashvardhanjain.com/index.html</loc>
-    <lastmod>2025-06-25T16:36:43.867Z</lastmod>
+    <loc>https://yashvardhanjain.com/posts/post-with-code/index.html</loc>
+    <lastmod>2025-06-18T19:40:01.351Z</lastmod>
   </url>
   <url>
     <loc>https://yashvardhanjain.com/about.html</loc>
     <lastmod>2025-06-25T16:31:12.543Z</lastmod>
   </url>
   <url>
-    <loc>https://yashvardhanjain.com/posts/post-with-code/index.html</loc>
-    <lastmod>2025-06-18T19:40:01.351Z</lastmod>
+    <loc>https://yashvardhanjain.com/index.html</loc>
+    <lastmod>2025-06-25T16:39:51.113Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yashvardhanjain.com/posts/welcome/index.html</loc>
+    <lastmod>2025-06-18T19:40:01.412Z</lastmod>
   </url>
 </urlset>
