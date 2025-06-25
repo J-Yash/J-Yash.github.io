@@ -1,14 +1,18 @@
 ---
 title: "Yashvardhan Jain"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+image: profile-image.jpg
+about:
+  template: jolla
+  links:
+    - icon: substack
+      text: Substack
+      href: https://www.subtledigressions.com
+    - icon: github
+      text: Github
+      href: https://github.com/J-yash
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yashvardhan-jain
 ---
 
 I'm a Research Software Engineer - Machine Learning at [Cyberinfrastructure for Network Science Center](https://cns.iu.edu), Indiana University Bloomington with a focus on computer vision in the context of spatial bioinformatics. I work on segmentation, annotation, analysis, and visualization methods using histology and spatial proteomic datasets for single cell, functional tissue units, and anatomical structures in human samples.
