@@ -11,4 +11,10 @@ page-layout: full
 title-block-banner: true
 ---
 
+I'm a Research Software Engineer - Machine Learning at [Cyberinfrastructure for Network Science Center](https://cns.iu.edu), Indiana University Bloomington with a focus on computer vision in the context of spatial bioinformatics. I work on segmentation, annotation, analysis, and visualization methods using histology and spatial proteomic datasets for single cell, functional tissue units, and anatomical structures in human samples.
 
+> Visit my writing/literature focussed blog/newsletter @ [Subtle Digressions](https://www.subtledigressions.com).
+> 
+> Or, visit my [ML/AI focussed blog](https://www.yashvardhanjain.com).
+
+> Find me @ [Github](https://www.github.com/J-yash) or [LinkedIn](https://www.linkedin.com/in/yashvardhan-jain) or [Google Scholar](https://scholar.google.com/citations?user=25Pd4RgAAAAJ&hl=en).
