@@ -7,6 +7,9 @@ about:
     - icon: substack
       text: Substack
       href: https://www.subtledigressions.com
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@subtledigressions
     - icon: github
       text: Github
       href: https://github.com/J-yash
@@ -20,7 +23,7 @@ about:
 
 I'm a Research Software Engineer - Machine Learning at [Cyberinfrastructure for Network Science Center](https://cns.iu.edu), Indiana University Bloomington with a focus on computer vision in the context of spatial bioinformatics. I work on segmentation, annotation, analysis, and visualization methods using histology and spatial proteomic datasets for single cell, functional tissue units, and anatomical structures in human samples.
 
-> Visit my main writing/literature-focussed blog/newsletter @ [Subtle Digressions](https://www.subtledigressions.com).
+> Visit my main writing/literature-focussed blog/newsletter @ [Subtle Digressions](https://www.subtledigressions.com) or my [YouTube channel](https://www.youtube.com/@subtledigressions) based on a similar theme.
 > 
 > Or, visit my [ML/AI focussed blog](https://yashvardhanjain.com/blog.html).
 
