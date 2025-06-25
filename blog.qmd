@@ -1,5 +1,5 @@
 ---
-title: "Yashvardhan Jain"
+title: "Tech Blog"
 listing:
   contents: posts
   sort: "date desc"
