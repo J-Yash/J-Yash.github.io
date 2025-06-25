@@ -1,5 +1,6 @@
 ---
-title: "AI/ML Posts"
+title: "Coding Digressions"
+subtitle: "Posts on machine learning and AI."
 listing:
   contents: posts
   sort: "date desc"
